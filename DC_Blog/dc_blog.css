@@ -1,0 +1,81 @@
+header{
+    margin-top:20px;
+    margin-left:75px;
+    margin-right:75px;
+}
+
+.logo{
+    display: inline-block;
+    float: left;
+    font-size: 26px;
+}
+body{
+    text-align:center;
+    font-family: arial;
+}
+.links{
+    display: inline-block;
+    float: right;
+    font-size: 15px;
+    color: grey;
+}
+.links span{
+    margin: 5px;
+}
+.title{
+    clear: both;
+    text-align:center;
+    padding-top:75px;
+}
+
+.bottomlinks{
+    margin-top:0px;
+}
+
+.bottomlinks span{
+    margin: 5px;
+    color: grey;
+    text-align: left;
+    float:left;
+}
+
+.twitter{
+    text-align:center;
+    font-weight:bold;
+    font-size:15px;
+    color: white;
+    background:rgb(0, 172, 238);
+    display: inline-block;
+    padding-left:10px;
+    padding-right:10px;
+    padding-top:5px;
+    padding-bottom:5px;
+    margin-bottom:15px;
+}
+a:visited{
+    color:white;
+}
+
+.twitter a{
+    text-decoration:none;
+}
+.title div{
+    color: grey;
+    margin-bottom: 5px;
+}
+
+.bodyfooter{
+margin-right:150px;
+margin-left:150px;
+margin-bottom: 50px;
+text-align:left;
+}
+
+.copyright{
+    text-align:center;
+    font-size: 10px;
+    color:grey;
+    margin-top:20px;
+    margin-bottom:0px;
+    clear:both;
+}

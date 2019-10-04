@@ -1,0 +1,16 @@
+main{
+    width: 80%;
+    margin-right:100px;
+    display:inline-block;
+}
+header{
+    display:inline-block;
+    float:middle;
+}
+.sidebar{
+    background-color:grey;
+    display:inline-block;
+    height:100%;
+    position:fixed;
+    margin-top:0px;
+}
